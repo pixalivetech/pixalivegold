@@ -1,6 +1,6 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
-import jewImage from "./../../assets/jewImage.png";
+import jewImage from "./../../assets/jewimage.png";
 import Pixalive from "./../../assets/Techlogo.png";
 
 const LoginPage = () => {
