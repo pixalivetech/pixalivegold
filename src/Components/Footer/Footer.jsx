@@ -54,7 +54,7 @@ const Footer = () => {
             {/* Social Links */}
             <div className="flex flex-col gap-5 text-base">
               <a
-                href="https://www.facebook.com/profile.php?id=61572736722664"
+                href="https://www.linkedin.com/company/pixalive-technology-network/?viewAsMember=true"
                 className="inline-flex items-center space-x-1 hover:underline cursor-pointer"
               >
                 <FaLinkedin />
